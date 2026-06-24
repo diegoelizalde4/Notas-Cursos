@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA/1.-MindSet/Criteria and Definition of Done.md",
+                "file": "DEVOPS/Vision General de DEVOPS/24-06-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Criteria and Definition of Done"
+              "title": "24-06-2026"
             }
           }
         ],
@@ -227,8 +227,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "1cf5deb14400f49f",
+  "active": "ddf315f1a29ee6b7",
   "lastOpenFiles": [
+    "QA/1.-MindSet/Criteria and Definition of Done.md",
+    "DEVOPS/Vision General de DEVOPS/24-06-2026.md",
     "QA/2.-Agile Testsing Strategies and testing/TDD AND BDD.md",
     "QA/2.-Agile Testsing Strategies and testing/Foundations of test Automation.md",
     "QA/2.-Agile Testsing Strategies and testing/Agile Test Scenarios Management.md",
@@ -241,7 +243,6 @@
     "DEVOPS/Vision General de DEVOPS/Caracteristicas Escenciales para DEVOPS.md",
     "DEVOPS/Vision General de DEVOPS",
     "DEVOPS",
-    "QA/1.-MindSet/Criteria and Definition of Done.md",
     "QA/1.-MindSet/Integrating QA in Agile Workflows.md",
     "QA/1.-MindSet",
     "QA PROCESS OPTIMIZATION AGILE AND AUTOMATED TESTING/What is Agile QA.md",
