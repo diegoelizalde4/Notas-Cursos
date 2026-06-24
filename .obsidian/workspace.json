@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA/Agile Process Improvment/24-06-2026.md",
+                "file": "QA/1.-MindSet/Criteria and Definition of Done.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24-06-2026"
+              "title": "Criteria and Definition of Done"
             }
           }
         ],
@@ -229,24 +229,26 @@
   },
   "active": "1cf5deb14400f49f",
   "lastOpenFiles": [
+    "QA/2.-Agile Testsing Strategies and testing/TDD AND BDD.md",
+    "QA/2.-Agile Testsing Strategies and testing/Foundations of test Automation.md",
+    "QA/2.-Agile Testsing Strategies and testing/Agile Test Scenarios Management.md",
+    "QA/3.-Agile Process Improvment/24-06-2026.md",
+    "SubirNotas.bat",
+    "SubirNotas.txt",
+    "Nuevo documento de texto.txt",
     "DEVOPS/Vision General de DEVOPS/Modelo WaterFall.md",
-    "QA/Agile Process Improvment/24-06-2026.md",
-    "QA/Agile Process Improvment",
+    "QA/3.-Agile Process Improvment",
     "DEVOPS/Vision General de DEVOPS/Caracteristicas Escenciales para DEVOPS.md",
-    "QA/Agile Testsing Strategies and testing/Agile Test Scenarios Management.md",
     "DEVOPS/Vision General de DEVOPS",
     "DEVOPS",
-    "QA/MindSet/Criteria and Definition of Done.md",
-    "QA/MindSet/Integrating QA in Agile Workflows.md",
-    "QA/MindSet",
+    "QA/1.-MindSet/Criteria and Definition of Done.md",
+    "QA/1.-MindSet/Integrating QA in Agile Workflows.md",
+    "QA/1.-MindSet",
     "QA PROCESS OPTIMIZATION AGILE AND AUTOMATED TESTING/What is Agile QA.md",
-    "QA/Agile Testsing Strategies and testing/Foundations of test Automation.md",
-    "QA/Agile Testsing Strategies and testing/TDD AND BDD.md",
-    "QA/Agile Testsing Strategies and testing",
+    "QA/2.-Agile Testsing Strategies and testing",
     "Selenium/Web Scraping.md",
     "QA",
     "Untitled.base",
-    "Selenium",
     "Selenium/CSS Selector.md"
   ]
 }
