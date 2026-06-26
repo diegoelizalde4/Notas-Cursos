@@ -41,30 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QA PROCESS OPTIMIZATION AGILE AND AUTOMATED TESTING/Agile Testsing Strategies and testing/TDD AND BDD.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TDD AND BDD"
-            }
-          },
-          {
-            "id": "ddf315f1a29ee6b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEVOPS/Vision General de DEVOPS/24-06-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "24-06-2026"
+              "title": "README"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QA PROCESS OPTIMIZATION AGILE AND AUTOMATED TESTING/Criteria and Definition of Done.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Criteria and Definition of Done"
+              "title": "Outline of README"
             }
           }
         ],
@@ -227,29 +213,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "ddf315f1a29ee6b7",
+  "active": "9fc251a4eb0ab34d",
   "lastOpenFiles": [
-    "QA/1.-MindSet/Criteria and Definition of Done.md",
+    "QA/QA Process Optimization Agile & Automated Testing/3.-Agile Process Improvment/Métricas y KPIs para QA Agile.md",
+    "QA/Open-Source QA Cypress, JMeter & xUnit Testing",
+    "QA/Nueva carpeta",
+    "QA/QA Process Optimization Agile & Automated Testing/Recursos Extras/Documento sin título.pdf",
+    "QA/QA Process Optimization Agile & Automated Testing/Recursos Extras/Lesson 3 - Reading 1 - QA Metrics.pdf",
+    "QA/QA Process Optimization Agile & Automated Testing/Recursos Extras/Interpreting QA metrics for optimization.pdf",
+    "QA/QA Process Optimization Agile & Automated Testing/Recursos Extras/Interpretin QA metrics for optimization.pdf",
+    "QA/QA Process Optimization Agile & Automated Testing/Recursos Extras/Final-project-1.pdf",
+    "QA/QA Process Optimization Agile & Automated Testing/Recursos Extras",
+    "QA/QA Process Optimization Agile & Automated Testing",
+    "README.md",
+    "README.md.tmp.2144.1609d0523317",
+    "QA/3.-Agile Process Improvment/26-06-2026.md",
+    "QA/QA Process Optimization Agile & Automated Testing/3.-Agile Process Improvment/Cómo medir la calidad pragmáticamente.md",
+    "QA/QA Process Optimization Agile & Automated Testing/3.-Agile Process Improvment/Optimización continua de QA.md",
+    "QA/QA Process Optimization Agile & Automated Testing/3.-Agile Process Improvment/Creando una estrategia de calidad Agile.md",
+    "QA/QA Process Optimization Agile & Automated Testing/3.-Agile Process Improvment/QA y DevOps.md",
+    "DEVOPS/Vision General de DEVOPS/XP, Agile y más allá.md",
     "DEVOPS/Vision General de DEVOPS/24-06-2026.md",
-    "QA/2.-Agile Testsing Strategies and testing/TDD AND BDD.md",
-    "QA/2.-Agile Testsing Strategies and testing/Foundations of test Automation.md",
-    "QA/2.-Agile Testsing Strategies and testing/Agile Test Scenarios Management.md",
+    "QA/QA Process Optimization Agile & Automated Testing/1.-MindSet/Criteria and Definition of Done.md",
+    "QA/QA Process Optimization Agile & Automated Testing/2.-Agile Testsing Strategies and testing/TDD AND BDD.md",
+    "QA/QA Process Optimization Agile & Automated Testing/2.-Agile Testsing Strategies and testing/Foundations of test Automation.md",
+    "QA/QA Process Optimization Agile & Automated Testing/2.-Agile Testsing Strategies and testing/Agile Test Scenarios Management.md",
     "QA/3.-Agile Process Improvment/24-06-2026.md",
-    "SubirNotas.bat",
-    "SubirNotas.txt",
-    "Nuevo documento de texto.txt",
     "DEVOPS/Vision General de DEVOPS/Modelo WaterFall.md",
-    "QA/3.-Agile Process Improvment",
     "DEVOPS/Vision General de DEVOPS/Caracteristicas Escenciales para DEVOPS.md",
-    "DEVOPS/Vision General de DEVOPS",
-    "DEVOPS",
-    "QA/1.-MindSet/Integrating QA in Agile Workflows.md",
-    "QA/1.-MindSet",
+    "QA/QA Process Optimization Agile & Automated Testing/1.-MindSet/Integrating QA in Agile Workflows.md",
     "QA PROCESS OPTIMIZATION AGILE AND AUTOMATED TESTING/What is Agile QA.md",
-    "QA/2.-Agile Testsing Strategies and testing",
     "Selenium/Web Scraping.md",
-    "QA",
-    "Untitled.base",
     "Selenium/CSS Selector.md"
   ]
 }
