@@ -1,0 +1,5 @@
+# Configuración local de Obsidian (NO sincronizar entre dispositivos).
+# Cada equipo (PC y tablet) mantiene sus propios ajustes, temas y plugins.
+# Esto evita que al actualizar desde la PC se borre la config del plugin
+# Obsidian Git en la tablet.
+.obsidian/
