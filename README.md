@@ -9,17 +9,22 @@ Bóveda de notas de estudio (Obsidian) basadas en dos cursos de **Coursera**:
 
 ## 🗂️ Cómo se distribuyen las notas
 
-Las notas se organizan por **curso → módulo → tema**. Cada archivo `.md` cubre **un solo concepto** y sigue una plantilla común de estudio:
+Las notas se organizan por **curso → módulo → tema**. Cada archivo `.md` cubre **un solo concepto** y sigue una plantilla común de estudio, pensada para aprender en profundidad:
 
 | Sección | Para qué sirve |
 |:--|:--|
 | **Frontmatter** (`---`) | Metadatos: curso, módulo, fecha, fuente y `tags` para buscar/filtrar. |
-| **Idea central** *(callout)* | El resumen en una frase: lo mínimo que debes recordar. |
-| **Conceptos / desarrollo** | El contenido principal, con tablas y diagramas. |
-| **Para repasar** | Preguntas de autoevaluación (marca ✅ al responderlas). |
-| **Enlaces relacionados** | Conexiones `[[wiki-link]]` con otras notas (mapa de Obsidian). |
+| 📄 **¿De qué trata esta nota?** | Resumen introductorio: te sitúa antes de leer. |
+| 🎯 **Idea central** | Lo esencial en una o dos frases. |
+| 📖 **Glosario de términos clave** | Cada palabra técnica con **definición formal + explicación simple** (para principiantes). |
+| **Desarrollo** | Contenido a fondo, con **tablas comparativas y diagramas**. |
+| 🧠 **Analogía para recordarlo todo** | Una comparación cotidiana que conecta los conceptos. |
+| ✅ **Para repasar** | Preguntas de autoevaluación tipo examen (marca ✅ al responderlas). |
+| 🔗 **Enlaces relacionados** | Conexiones `[[wiki-link]]` con otras notas (mapa de Obsidian). |
 
 > 💡 **Sugerencia:** abre el *Graph View* de Obsidian para ver cómo se conectan los temas entre DevOps y QA.
+
+> 🧭 **¿Vas a actualizar o añadir notas (tú o una IA)?** Lee primero [`_CONTEXTO.md`](_CONTEXTO.md): contiene la plantilla, las convenciones de estilo y el estado de cada nota, para no tener que re-analizar toda la bóveda.
 
 ---
 
@@ -28,9 +33,9 @@ Las notas se organizan por **curso → módulo → tema**. Cada archivo `.md` cu
 ### 🚀 DEVOPS — Visión General
 Orden de lectura recomendado (de lo histórico a lo actual):
 
-1. [Modelo Waterfall y el camino hacia DevOps](DEVOPS/Vision%20General%20de%20DEVOPS/Modelo%20WaterFall.md)
-2. [XP, Agile y más allá](DEVOPS/Vision%20General%20de%20DEVOPS/XP,%20Agile%20y%20más%20allá.md)
-3. [Características esenciales de DevOps](DEVOPS/Vision%20General%20de%20DEVOPS/Caracteristicas%20Escenciales%20para%20DEVOPS.md)
+1. [Modelo Waterfall y el camino hacia DevOps](Modelo%20WaterFall.md)
+2. [XP, Agile y más allá](XP,%20Agile%20y%20más%20allá.md)
+3. [Características esenciales de DevOps](Caracteristicas%20Escenciales%20para%20DEVOPS.md)
 
 ### ✅ QA — Optimización de procesos
 
@@ -54,12 +59,17 @@ Orden de lectura recomendado (de lo histórico a lo actual):
 
 ## 🔗 Hilo conductor entre ambos cursos
 
-```
-Waterfall (problema)
-   └─→ Agile / XP (mejora el desarrollo)
-         └─→ DevOps (integra Dev + Ops, automatiza)
-               └─→ QA + DevOps: shift-left, CI/CD, pruebas continuas
-                     └─→ Métricas → medir valor, no contar bugs
+```mermaid
+flowchart TD
+    A["Waterfall<br/>(el problema)"] --> B["Agile / XP<br/>(mejora el desarrollo)"]
+    B --> C["DevOps<br/>(integra Dev + Ops, automatiza)"]
+    C --> D["QA + DevOps<br/>(shift-left, CI/CD, pruebas continuas)"]
+    D --> E["Métricas<br/>(medir valor, no contar bugs)"]
+    style A fill:#fee2e2,stroke:#dc2626,color:#000
+    style B fill:#fef9c3,stroke:#ca8a04,color:#000
+    style C fill:#dcfce7,stroke:#16a34a,color:#000
+    style D fill:#dbeafe,stroke:#2563eb,color:#000
+    style E fill:#e0e7ff,stroke:#4f46e5,color:#000
 ```
 
 DevOps explica **cómo se entrega** el software; QA explica **cómo se asegura su calidad** dentro de esa entrega. La nota [QA y DevOps](QA%20y%20DevOps.md) es el punto donde ambos cursos se encuentran.

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DEVOPS/1.-Vision General de DEVOPS/XP, Agile y más allá.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "XP, Agile y más allá"
             }
           }
         ],
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "DEVOPS/1.-Vision General de DEVOPS/XP, Agile y más allá.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of XP, Agile y más allá"
             }
           }
         ],
@@ -215,35 +215,40 @@
   },
   "active": "9fc251a4eb0ab34d",
   "lastOpenFiles": [
-    "QA/QA Process Optimization Agile & Automated Testing/3.-Agile Process Improvment/Métricas y KPIs para QA Agile.md",
-    "QA/Open-Source QA Cypress, JMeter & xUnit Testing",
-    "QA/Nueva carpeta",
-    "QA/QA Process Optimization Agile & Automated Testing/Recursos Extras/Documento sin título.pdf",
-    "QA/QA Process Optimization Agile & Automated Testing/Recursos Extras/Lesson 3 - Reading 1 - QA Metrics.pdf",
-    "QA/QA Process Optimization Agile & Automated Testing/Recursos Extras/Interpreting QA metrics for optimization.pdf",
-    "QA/QA Process Optimization Agile & Automated Testing/Recursos Extras/Interpretin QA metrics for optimization.pdf",
-    "QA/QA Process Optimization Agile & Automated Testing/Recursos Extras/Final-project-1.pdf",
-    "QA/QA Process Optimization Agile & Automated Testing/Recursos Extras",
-    "QA/QA Process Optimization Agile & Automated Testing",
+    "DEVOPS/1.-Vision General de DEVOPS/Modelo WaterFall.md",
+    "DEVOPS/1.-Vision General de DEVOPS/Caracteristicas Escenciales para DEVOPS.md",
+    "_CONTEXTO.md.tmp.4932.f40d21570de4",
+    "README.md.tmp.4932.786c5848617d",
+    "QA/3.-Agile Process Improvment/Optimización continua de QA.md.tmp.4932.ce6da6b779ad",
+    "QA/2.-Agile Testsing Strategies and testing/Agile Test Scenarios Management.md.tmp.4932.f21c46d11461",
+    "QA/2.-Agile Testsing Strategies and testing/Foundations of test Automation.md.tmp.4932.e03365a8c336",
+    "QA/1.-MindSet/Criteria and Definition of Done.md.tmp.4932.cb48b0305ac9",
+    "_CONTEXTO.md",
+    "DEVOPS/1.-Vision General de DEVOPS/XP, Agile y más allá.md.tmp.4932.65ea4eba6a80",
+    "README.md.tmp.4932.d5124ae83fe8",
+    "QA/3.-Agile Process Improvment/Creando una estrategia de calidad Agile.md",
+    "_CONTEXTO.md.tmp.4932.d68e4c7d0e10",
+    "QA/3.-Agile Process Improvment/Cómo medir la calidad pragmáticamente.md",
+    "QA/3.-Agile Process Improvment/Optimización continua de QA.md",
+    "QA/1.-MindSet/Criteria and Definition of Done.md",
+    "QA/3.-Agile Process Improvment/Métricas y KPIs para QA Agile.md",
+    "QA/3.-Agile Process Improvment/Creando una estrategia de calidad Agile.md.tmp.4932.ede4b64cb629",
+    "QA/3.-Agile Process Improvment/QA y DevOps.md",
+    "DEVOPS/Introduccion a DevOps/1.-Vision General de DEVOPS/Caracteristicas Escenciales para DEVOPS.md",
+    "QA/2.-Agile Testsing Strategies and testing/Agile Test Scenarios Management.md",
+    "QA/2.-Agile Testsing Strategies and testing/TDD AND BDD.md",
+    "DEVOPS/Introduccion a DevOps/1.-Vision General de DEVOPS/XP, Agile y más allá.md",
+    "DEVOPS/Introduccion a DevOps/1.-Vision General de DEVOPS/Modelo WaterFall.md",
+    "QA/2.-Agile Testsing Strategies and testing/Foundations of test Automation.md",
+    "QA/1.-MindSet/Integrating QA in Agile Workflows.md",
+    "DEVOPS/1.-Vision General de DEVOPS/XP, Agile y más allá.md",
+    "DEVOPS/Introduccion a DevOps/2.-Pensando en DEVOPS/Producto Minimo Viable.md",
+    "DEVOPS/Introduccion a DevOps/2.-Pensando en DEVOPS/Trabajar en Lotes Pequeños.md",
+    "DEVOPS/Introduccion a DevOps/2.-Pensando en DEVOPS/Git Respository guideline.md",
+    "DEVOPS/Introduccion a DevOps/2.-Pensando en DEVOPS/Principios de codificacion Social.md",
     "README.md",
-    "README.md.tmp.2144.1609d0523317",
+    "QA/QA Process Optimization Agile & Automated Testing/3.-Agile Process Improvment/Métricas y KPIs para QA Agile.md",
     "QA/3.-Agile Process Improvment/26-06-2026.md",
-    "QA/QA Process Optimization Agile & Automated Testing/3.-Agile Process Improvment/Cómo medir la calidad pragmáticamente.md",
-    "QA/QA Process Optimization Agile & Automated Testing/3.-Agile Process Improvment/Optimización continua de QA.md",
-    "QA/QA Process Optimization Agile & Automated Testing/3.-Agile Process Improvment/Creando una estrategia de calidad Agile.md",
-    "QA/QA Process Optimization Agile & Automated Testing/3.-Agile Process Improvment/QA y DevOps.md",
-    "DEVOPS/Vision General de DEVOPS/XP, Agile y más allá.md",
-    "DEVOPS/Vision General de DEVOPS/24-06-2026.md",
-    "QA/QA Process Optimization Agile & Automated Testing/1.-MindSet/Criteria and Definition of Done.md",
-    "QA/QA Process Optimization Agile & Automated Testing/2.-Agile Testsing Strategies and testing/TDD AND BDD.md",
-    "QA/QA Process Optimization Agile & Automated Testing/2.-Agile Testsing Strategies and testing/Foundations of test Automation.md",
-    "QA/QA Process Optimization Agile & Automated Testing/2.-Agile Testsing Strategies and testing/Agile Test Scenarios Management.md",
-    "QA/3.-Agile Process Improvment/24-06-2026.md",
-    "DEVOPS/Vision General de DEVOPS/Modelo WaterFall.md",
-    "DEVOPS/Vision General de DEVOPS/Caracteristicas Escenciales para DEVOPS.md",
-    "QA/QA Process Optimization Agile & Automated Testing/1.-MindSet/Integrating QA in Agile Workflows.md",
-    "QA PROCESS OPTIMIZATION AGILE AND AUTOMATED TESTING/What is Agile QA.md",
-    "Selenium/Web Scraping.md",
-    "Selenium/CSS Selector.md"
+    "QA/QA Process Optimization Agile & Automated Testing/3.-Agile Process Improvment/Cómo medir la calidad pragmáticamente.md"
   ]
 }
