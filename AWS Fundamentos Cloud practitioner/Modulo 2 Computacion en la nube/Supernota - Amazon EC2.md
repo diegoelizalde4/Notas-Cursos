@@ -153,13 +153,13 @@ El resumen menciona las familias de forma conceptual pero no explica cómo se no
 
 ### 4.2 Las 5 categorías principales (como las presenta el resumen del curso)
 
-| Familia | Enfoque | Casos de uso típicos | Letras de serie oficiales relevantes |
-|---|---|---|---|
-| **Propósito general** | Balance entre CPU, memoria y red | Servidores web, microservicios, repositorios de código, entornos de desarrollo | `M` (general), `T` (rendimiento *burstable*, ver sección 10) |
-| **Optimizada para cómputo** | Máxima relación precio/rendimiento en procesamiento CPU | Servidores de juegos, HPC, machine learning, modelado científico, procesamiento por lotes | `C`, `Hpc` |
-| **Optimizada para memoria** | Alta relación memoria/vCPU | Bases de datos en memoria, análisis de grandes conjuntos de datos, cachés distribuidos | `R` (memoria optimizada), `X` (memoria intensiva), `Z` (alta frecuencia + alta memoria), `U` (memoria muy alta, hasta TBs) |
-| **Cómputo acelerado** | Usan hardware acelerador dedicado (GPU, FPGA, chips de inferencia) | Gráficos, entrenamiento/inferencia de modelos de IA, transcodificación de video | `P`/`G` (GPU), `F` (FPGA), `Trn` (AWS Trainium), `Inf` (AWS Inferentia), `VT` (transcodificación) |
-| **Optimizada para almacenamiento** | Alto rendimiento I/O sobre almacenamiento local | Bases de datos NoSQL de alto rendimiento, sistemas de archivos distribuidos, data warehousing | `I`, `Im`, `Is` (storage optimized, distintas proporciones vCPU:memoria), `D` (almacenamiento denso) |
+| Familia                            | Enfoque                                                            | Casos de uso típicos                                                                          | Letras de serie oficiales relevantes                                                                                       |
+| ---------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Propósito general**              | Balance entre CPU, memoria y red                                   | Servidores web, microservicios, repositorios de código, entornos de desarrollo                | `M` (general), `T` (rendimiento *burstable*, ver sección 10)                                                               |
+| **Optimizada para cómputo**        | Máxima relación precio/rendimiento en procesamiento CPU            | Servidores de juegos, HPC, machine learning, modelado científico, procesamiento por lotes     | `C`, `Hpc`                                                                                                                 |
+| **Optimizada para memoria**        | Alta relación memoria/vCPU                                         | Bases de datos en memoria, análisis de grandes conjuntos de datos, cachés distribuidos        | `R` (memoria optimizada), `X` (memoria intensiva), `Z` (alta frecuencia + alta memoria), `U` (memoria muy alta, hasta TBs) |
+| **Cómputo acelerado**              | Usan hardware acelerador dedicado (GPU, FPGA, chips de inferencia) | Gráficos, entrenamiento/inferencia de modelos de IA, transcodificación de video               | `P`/`G` (GPU), `F` (FPGA), `Trn` (AWS Trainium), `Inf` (AWS Inferentia), `VT` (transcodificación)                          |
+| **Optimizada para almacenamiento** | Alto rendimiento I/O sobre almacenamiento local                    | Bases de datos NoSQL de alto rendimiento, sistemas de archivos distribuidos, data warehousing | `I`, `Im`, `Is` (storage optimized, distintas proporciones vCPU:memoria), `D` (almacenamiento denso)                       |
 
 ```mermaid
 flowchart TB
@@ -189,10 +189,10 @@ I, Im, Is, D]
 
 ### 5.1 Las tres formas principales
 
-| Método | Qué es | Mejor para |
-|---|---|---|
-| **AWS Management Console** | Interfaz web visual, basada en navegador | Principiantes, tareas exploratorias/no técnicas, entornos de prueba, visualización rápida de recursos |
-| **AWS Command Line Interface (CLI)** | Herramienta de línea de comandos que envía solicitudes a AWS mediante texto | Automatización con scripts, tareas repetitivas, integración en pipelines de CI/CD |
+| Método                                 | Qué es                                                                                                                                    | Mejor para                                                                                                          |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **AWS Management Console**             | Interfaz web visual, basada en navegador                                                                                                  | Principiantes, tareas exploratorias/no técnicas, entornos de prueba, visualización rápida de recursos               |
+| **AWS Command Line Interface (CLI)**   | Herramienta de línea de comandos que envía solicitudes a AWS mediante texto                                                               | Automatización con scripts, tareas repetitivas, integración en pipelines de CI/CD                                   |
 | **AWS Software Development Kit (SDK)** | Bibliotecas específicas por lenguaje de programación (Python/boto3, JavaScript, Java, etc.) que permiten interactuar con AWS desde código | Integrar AWS directamente dentro de una aplicación, lógica de negocio compleja, entornos de desarrollo como VS Code |
 
 > [!important] La idea central del resumen
